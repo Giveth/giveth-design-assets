@@ -10,4 +10,5 @@ Please refer to the Visual design guidelines on our Wiki:
 ## Contribution
 
   1 - Please make sure your design was reviewed by our branding-circle
+  
   2 - Please make sure to supply vector assets (currently .SVG is preferred)
